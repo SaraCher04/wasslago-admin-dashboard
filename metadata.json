@@ -1,0 +1,6 @@
+{
+  "name": "WasslaGo Admin Dashboard",
+  "description": "Operational overview dashboard for WasslaGo professional translation marketplace",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
